@@ -151,3 +151,5 @@ For authorized security testing only. Using this tool against systems you do not
 ---
 
 *Built by [28Zaaky](https://github.com/28Zaaky/)*
+
+ps. claude is used for code review, github pushing, commentary.It's not a fully ai genereted project, he came from my reasearch. 
